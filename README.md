@@ -3,7 +3,7 @@
 Welcome to the FreeFire-FFH4X Injector repository! This MOD menu provides Free Fire players with a range of amazing features to enhance their gaming experience. Whether you're looking for paid hacks for free or advanced customization options, the FFH4X Injector has got you covered. Let's dive into the details of this powerful tool.
 
 ## Features
-- **Versatile Hacks:** Unlock paid hacks for Free Fire without any cost.
+- **aimbot Hacks:** Unlock paid hacks for Free Fire without any cost.
 - **Customization:** Customize Free Fire to suit your preferences.
 - **Enhanced Gameplay:** Enjoy a variety of features to take your gaming to the next level.
 

